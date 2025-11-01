@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "A decentralized finance application dashboard.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "dapp dashboard"
+    },
+    {
+      "id": "project-2",
+      "description": "An NFT marketplace for digital artists.",
+      "imageUrl": "https://images.unsplash.com/photo-1741922519164-9373ae4c7d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxuZnQlMjBtYXJrZXRwbGFjZXxlbnwwfHx8fDE3NjIwMzE1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft marketplace"
+    },
+    {
+      "id": "project-3",
+      "description": "A smart contract for a community DAO.",
+      "imageUrl": "https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2RlJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzYyMDI3ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code abstract"
+    },
+    {
+      "id": "project-4",
+      "description": "A developer portal for a blockchain protocol.",
+      "imageUrl": "https://images.unsplash.com/photo-1731068305209-168e99ed4722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjBkb2N1bWVudGF0aW9ufGVufDB8fHx8MTc2MjAzMTU5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer documentation"
+    },
+    {
+      "id": "community-1",
+      "description": "Speaking at a Web3 conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1563807893646-b6598a2b6fdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb25mZXJlbmNlJTIwc3BlYWtpbmd8ZW58MHx8fHwxNzYyMDMxNTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference speaking"
+    },
+    {
+      "id": "community-2",
+      "description": "Leading a workshop on smart contract security.",
+      "imageUrl": "https://images.unsplash.com/photo-1753164725369-23a8c8190922?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b3Jrc2hvcCUyMHRlYWNoaW5nfGVufDB8fHx8MTc2MjAzMTU5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "workshop teaching"
+    },
+    {
+      "id": "about-me",
+      "description": "A professional portrait of Jesutola Olusegun.",
+      "imageUrl": "https://images.unsplash.com/photo-1689218742634-4147e23137fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkZXZlbG9wZXIlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE5ODI1MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer portrait"
+    }
+  ]
 }
