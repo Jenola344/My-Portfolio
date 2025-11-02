@@ -14,7 +14,7 @@ const communityItems = [
     id: 'community-1',
     icon: <Mic className="h-5 w-5" />,
     title: 'Simplifying Blockchain & Security',
-    description: 'Spoke about the future of developer relations in a decentralized world, focusing on community-driven growth strategies.',
+    description: 'Hosted an interactive session to teach the basics, benefits, and security of blockchain technology. Helped participants understand real-world blockchain applications and how decentralized systems ensure trust and transparency.',
   },
   {
     id: 'community-2',
