@@ -27,7 +27,7 @@ const projects = [
   },
   {
     id: 'project-4',
-    title: 'Governance DAO Framework',
+    title: 'CryptoQuest',
     description: 'A modular and extensible framework for launching Decentralized Autonomous Organizations. Features on-chain voting and treasury management.',
     tags: ['Smart Contracts', 'DAO', 'Ethers.js'],
   },
