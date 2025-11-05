@@ -5,7 +5,7 @@ const skills = [
   {
     title: 'Frontend Development',
     icon: <Code className="w-8 h-8" />,
-    description: 'Crafting intuitive and performant user interfaces with modern frameworks like React and Next.js. I focus on creating seamless experiences that delight users.',
+    description: 'My passion lies in building interfaces that feel invisible. I prioritize intuitive design and flawless performance to create seamless experiences where the technology fades into the background, leaving only user delight.',
   },
   {
     title: 'Smart Contract Engineering',
