@@ -1,5 +1,1 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+### I’m Jesutola Olusegun, also known as Jenola, a dedicated Developer Relations professional leveraging my expertise in frontend and smart contract development to build, educate, and inspire the next generation of Web3 innovators.
